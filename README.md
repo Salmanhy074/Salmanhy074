@@ -40,23 +40,8 @@
 ### Languages and Tools:
 [![My Skills](https://skillicons.dev/icons?i=java,kotlin,firebase,github,androidstudio,idea,stackoverflow,vscode)](https://skillicons.dev)
 
-![MUHAMMAD SALMAN's GitHub stats](https://github-readme-stats.vercel.app/api?username=Salmanhy074&show_icons=true&theme=dark)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Salmanhy074&theme=dark)
-
-
-<h2>⚡ Skills</h2>
-
-| # | # | # | # |
-| :------------ | :--------------- | :----- | :----- |
-| <img src="https://img.shields.io/badge/-Java-0D1117?style=flat-square&logo=oracle&logoColor=F0DB4F"> | <img src="https://img.shields.io/badge/-Kotlin-0D1117?style=flat-square&logo=kotlin&logoColor=F0DB4F"> | <img src="https://img.shields.io/badge/-XML-0D1117?style=flat-square&logo=html5&logoColor=F0DB4F"> | <img src="https://img.shields.io/badge/-Firebase-0D1117?style=flat-square&logo=firebase&logoColor=F0DB4F"> |
-| <img src="https://img.shields.io/badge/-API-0D1117?style=flat-square&logo=fastapi&logoColor=F0DB4F"> | <img src="https://img.shields.io/badge/-Material%20Design-0D1117?style=flat-square&logo=material-design&logoColor=F0DB4F"> |
-
-
-
-
-
-<div align="center">
+### MUHAMMAD SALMAN GitHub Stats:
+<div align="left">
   <a href="https://github.com/Salmanhy074">
     <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Salmanhy074&theme=2077" height="180em" />
     <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Salmanhy074&theme=2077" height="180em" />
@@ -69,6 +54,15 @@
 <p style="text-align: center;">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Salmanhy074&" alt="Salmanhy074" />
 </p>
+
+
+<h2>⚡ Skills</h2>
+
+| # | # | # | # |
+| :------------ | :--------------- | :----- | :----- |
+| <img src="https://img.shields.io/badge/-Java-0D1117?style=flat-square&logo=oracle&logoColor=F0DB4F"> | <img src="https://img.shields.io/badge/-Kotlin-0D1117?style=flat-square&logo=kotlin&logoColor=F0DB4F"> | <img src="https://img.shields.io/badge/-XML-0D1117?style=flat-square&logo=html5&logoColor=F0DB4F"> | <img src="https://img.shields.io/badge/-Firebase-0D1117?style=flat-square&logo=firebase&logoColor=F0DB4F"> |
+| <img src="https://img.shields.io/badge/-API-0D1117?style=flat-square&logo=fastapi&logoColor=F0DB4F"> | <img src="https://img.shields.io/badge/-Material%20Design-0D1117?style=flat-square&logo=material-design&logoColor=F0DB4F"> |
+
 
 
 
