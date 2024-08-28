@@ -9,8 +9,8 @@
 
 
 - 🔭 I’m currently working on Java and Kotlin
-👨‍💻 I'm an Android Developer from Pakistan
-• 🌱 I’m currently Learning advanced Programming stuff
+- 👨‍💻 I'm an Android Developer from Pakistan
+- 🌱 I’m currently Learning advanced Programming stuff
 - ⚡ Firebase
 - 💬 Ask me anything about Java
 - 📫 How to reach me: salmanhy123456@gmail.com
