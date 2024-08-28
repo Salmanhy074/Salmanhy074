@@ -15,6 +15,11 @@
 - 💬 Ask me anything about Java
 - 📫 How to reach me: salmanhy123456@gmail.com
 
+
+ <p align="center"><img  src="https://github.com/Salmanhy074/Salmanhy074/blob/main/devcard.svg" width="400" alt="MUHAMMAD SALMAN Dev Card"/></p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Salmanhy074&label=Profile%20views&color=0e75b6&style=flat" alt="Salmanhy074" /> </p>
+
   
   
 <h2 align="left" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-center: 10px;">Connect with me on 🤝: </h2>
