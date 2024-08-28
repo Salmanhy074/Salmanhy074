@@ -8,7 +8,7 @@
 
 
 
-- 🔭 I’m Currently Working on Java and Kotlin
+- 🔭 Currently Working on Java and Kotlin
 - 👨‍💻 I'm an Android Developer from Pakistan
 - 🌱 Learning Advanced Programming Stuff
 - 🔥 Firebase
