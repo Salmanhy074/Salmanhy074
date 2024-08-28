@@ -30,12 +30,13 @@
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/>
   </a>
   <a href="mailto:salmanhy123456@gmail.com">
-    <img src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/svgs/solid/envelope.svg" alt="Email" height="30" width="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Email_Icon.png" alt="Email" height="30" width="40"/>
   </a>
   <a href="https://wa.me/+923082456659">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="WhatsApp" height="30" width="40"/>
   </a>
 </div>
+
 
 
 
