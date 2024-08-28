@@ -11,7 +11,7 @@
 - 🔭 I’m currently working on Java and Kotlin
 - 👨‍💻 I'm an Android Developer from Pakistan
 - 🌱 I’m currently Learning advanced Programming stuff
-- ⚡ Firebase
+- 🔥 Firebase
 - 💬 Ask me anything about Java
 - 📫 How to reach me: salmanhy123456@gmail.com
 
@@ -37,12 +37,11 @@
 </a>
 </div>
 
-<div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,kotlin,firebase,github,androidstudio,idea,stackoverflow,vscode" alt="Skills" />
-  </a>
-</div>
-### MUHAMMAD SALMAN GitHub Stats:
+### 🛠️ Languages and Tools:
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin,firebase,github,androidstudio,idea,stackoverflow,vscode)](https://skillicons.dev)
+
+
+### 📈 GitHub Stats:
 <div align="left">
   <a href="https://github.com/Salmanhy074">
     <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Salmanhy074&theme=2077" height="180em" />
@@ -58,7 +57,7 @@
 </p>
 
 
-<h2>⚡ Skills</h2>
+<h2>🧑🏻‍💻 Skills</h2>
 
 | # | # | # | # |
 | :------------ | :--------------- | :----- | :----- |
