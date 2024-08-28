@@ -59,7 +59,6 @@
 
 <h2>🧑🏻‍💻 Skills</h2>
 
-| # | # |
 | :------------ | :--------------- |
 | <img src="https://img.shields.io/badge/-Java-0D1117?style=flat-square&logo=oracle&logoColor=F0DB4F"> | <img src="https://img.shields.io/badge/-Kotlin-0D1117?style=flat-square&logo=kotlin&logoColor=F0DB4F"> |
 | <img src="https://img.shields.io/badge/-XML-0D1117?style=flat-square&logo=html5&logoColor=F0DB4F"> | <img src="https://img.shields.io/badge/-Firebase-0D1117?style=flat-square&logo=firebase&logoColor=F0DB4F"> |
