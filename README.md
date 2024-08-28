@@ -37,9 +37,11 @@
 </a>
 </div>
 
-### Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=java,kotlin,firebase,github,androidstudio,idea,stackoverflow,vscode)](https://skillicons.dev)
-
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,kotlin,firebase,github,androidstudio,idea,stackoverflow,vscode" alt="Skills" />
+  </a>
+</div>
 ### MUHAMMAD SALMAN GitHub Stats:
 <div align="left">
   <a href="https://github.com/Salmanhy074">
