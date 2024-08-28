@@ -1,12 +1,10 @@
- <h1 align="center">Hi 👋, I'm MUHAMMAD SALMAN</h1>
+<h1 align="center">Hi 👋, I'm MUHAMMAD SALMAN</h1>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&weight=500&size=25&duration=4000&pause=500&color=FF8000&center=true&vCenter=true&width=665&height=55&lines=Hi+%F0%9F%91%8B%2C+I'm+MUHAMMAD+SALMAN;%F0%9F%94%AD+I’m+currently+working+on+Java+and+Kotlin;%F0%9F%8C%B1+Learning+advanced+Programming+Stuff;%E2%9A%A1+Firebase;%F0%9F%93%AB+How+to+reach+me%3A+salmanhy123456%40gmail.com" alt="Typing SVG" />
   </a>
 </div>
-
-
 
 - 🔭 I’m Currently Working on Java and Kotlin
 - 👨‍💻 I'm an Android Developer from Pakistan
@@ -15,14 +13,7 @@
 - 💬 Ask me anything about Java
 - 📫 How to reach me: salmanhy123456@gmail.com
 
-
-
-
-
-
-  
-  
-<h2 align="left" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-center: 10px;">Connect with me on 🤝: </h2>
+<h2 align="left"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-center: 10px;"> Connect with me on 🤝: </h2>
 
 <div id="badges" align="left">
   <a href="https://github.com/Salmanhy074/Salmanhy074">
@@ -39,13 +30,9 @@
   </a>
 </div>
 
-
-
-
 <h2>🛠️ Languages and Tools:</h2>
 
 [![My Skills](https://skillicons.dev/icons?i=java,kotlin,firebase,github,androidstudio,idea,stackoverflow,vscode)](https://skillicons.dev)
-
 
 <h2>📈 GitHub Stats:</h2>
 
@@ -59,13 +46,15 @@
   </a>
 </div>
 
-<p style="text-align: center;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Salmanhy074&" alt="Salmanhy074" />
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Salmanhy074&theme=2077" alt="Salmanhy074" />
 </p>
 
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Salmanhy074" alt="Salmanhy074" /></a> </p>
-
+<p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Salmanhy074&theme=2077" alt="Salmanhy074" />
+  </a>
+</p>
 
 <h2>🧑🏻‍💻 Skills:</h2>
 
@@ -74,13 +63,6 @@
 | <img src="https://img.shields.io/badge/-Java-0D1117?style=flat-square&logo=oracle&logoColor=F0DB4F"> | <img src="https://img.shields.io/badge/-Kotlin-0D1117?style=flat-square&logo=kotlin&logoColor=F0DB4F"> |
 | <img src="https://img.shields.io/badge/-XML-0D1117?style=flat-square&logo=html5&logoColor=F0DB4F"> | <img src="https://img.shields.io/badge/-Firebase-0D1117?style=flat-square&logo=firebase&logoColor=F0DB4F"> |
 | <img src="https://img.shields.io/badge/-API-0D1117?style=flat-square&logo=fastapi&logoColor=F0DB4F"> | <img src="https://img.shields.io/badge/-Material%20Design-0D1117?style=flat-square&logo=material-design&logoColor=F0DB4F"> |
-
-
-
-
-
-
-
 
 Don't forget to hit the :star: if you like this repo.
 
