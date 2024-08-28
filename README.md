@@ -62,7 +62,7 @@
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ali-bouali&theme=2077" height="180em" />
 </div>
 
-<p style="text-align: center;"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ali-bouali&" alt="ali-bouali" /></p>
+<p style="text-align: center;"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Salmanhy074&" alt="Salmanhy074" /></p>
 
 
 
