@@ -26,7 +26,7 @@
 </div>
 
 ### Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=java,kotlin,firebase,github,androidstudio,idea,StackOverflow,vscode=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin,firebase,github,androidstudio,idea,StackOverflow,vscode=5)]
 
 ![MUHAMMAD SALMAN's GitHub stats](https://github-readme-stats.vercel.app/api?username=Salmanhy074&show_icons=true&theme=dark)
 
