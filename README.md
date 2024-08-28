@@ -18,8 +18,9 @@
 ![Profile views](https://komarev.com/ghpvc/?username=Salmanhy074&label=Profile%20views&color=0e75b6&style=flat)
 
 <p align="center">
-  <img src="https://cdn.pixabay.com/photo/2020/03/26/14/20/software-developer-4970780_960_720.png" width="400" alt="YOUR_NAME Dev Card"/>
+  <img src="[https://cdn.pixabay.com/photo/2020/03/26/14/20/software-developer-4970780_960_720.png](https://cdn.pixabay.com/photo/2021/08/04/13/06/software-developer-6521720_1280.jpg)" width="400" alt="YOUR_NAME Dev Card"/>
 </p>
+
 
 
 
