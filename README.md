@@ -1,6 +1,12 @@
  <h1 align="center">Hi 👋, I'm MUHAMMAD SALMAN</h1>
 
- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Slab&weight=500&size=25&duration=4000&pause=500&color=FF8000&center=true&vCenter=true&width=665&height=55&lines=Hi+%F0%9F%91%8B%2C+I'm+MUHAMMAD+SALMAN;-%F0%9F%94%AD+I’m+currently+working+on+Java+and+Kotlin;-%F0%9F%8C%B1+Learning+new+technologies;-%E2%9A%A1+Firebase;-%F0%9F%92%AC+Ask+me+anything+about+Java;-%F0%9F%93%AB+How+to+reach+me%3A+salmanhy123456%40gmail.com)](https://git.io/typing-svg)
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&weight=500&size=25&duration=4000&pause=500&color=FF8000&center=true&vCenter=true&width=665&height=55&lines=Hi+%F0%9F%91%8B%2C+I'm+MUHAMMAD+SALMAN;
+%F0%9F%94%AD+I’m+currently+working+on+Java+and+Kotlin;%F0%9F%8C%B1+Learning+new+technologies;%E2%9A%A1+Firebase;
+%F0%9F%93%AB+How+to+reach+me%3A+salmanhy123456%40gmail.com" alt="Typing SVG" />
+  </a>
+</div>
 
 
 
