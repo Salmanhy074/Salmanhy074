@@ -53,6 +53,16 @@
 | <img src="https://img.shields.io/badge/-API-0D1117?style=flat-square&logo=fastapi&logoColor=F0DB4F"> | <img src="https://img.shields.io/badge/-Material%20Design-0D1117?style=flat-square&logo=material-design&logoColor=F0DB4F"> |
 
 
+<div align="center">
+<a href="https://github.com/ali-bouali">
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ali-bouali&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ali-bouali&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ali-bouali&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ali-bouali&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ali-bouali&theme=2077" height="180em" />
+</div>
+
+<p style="text-align: center;"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ali-bouali&" alt="ali-bouali" /></p>
 
 
 
