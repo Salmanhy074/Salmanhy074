@@ -16,8 +16,9 @@
 - 📫 How to reach me: salmanhy123456@gmail.com
 
 ![Profile views](https://komarev.com/ghpvc/?username=Salmanhy074&label=Profile%20views&color=0e75b6&style=flat)
+
 <p align="center">
-  <img src="[IMAGE_URL](https://www.google.com/url?sa=i&url=https%3A%2F%2Fpixabay.com%2Fimages%2Fsearch%2Fsoftware%2520developer%2F&psig=AOvVaw3zpopCfcQUAvc-bNHXXaKi&ust=1724958385943000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCIi9j_awmIgDFQAAAAAdAAAAABAE)" width="400" alt="YOUR_NAME Dev Card"/>
+  <img src="https://cdn.pixabay.com/photo/2020/03/26/14/20/software-developer-4970780_960_720.png" width="400" alt="YOUR_NAME Dev Card"/>
 </p>
 
 
