@@ -8,7 +8,8 @@
 
   
   
-### Connect with me:
+<h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-center: 10px;">Connect with me on 🤝: </h3>
+
 <div id="badges">
   <a href="https://github.com/Salmanhy074/Salmanhy074">
     <img src="https://img.shields.io/badge/Github-white?style=for-the-badge&logo=Github&logoColor=black" alt="Github Badge"/>
@@ -35,12 +36,6 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Salmanhy074&theme=dark)
 
 
-<h2>:label: Github Stats</h2>
-
-<a href="https://gitroll.io/profile/uLfTHQ426idPKEBt4rSpjXMrcrSF3" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uLfTHQ426idPKEBt4rSpjXMrcrSF3" alt="GitRoll Profile Badge"/></a>
-
-
-<h2>
 
 
 
