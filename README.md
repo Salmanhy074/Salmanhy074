@@ -17,7 +17,7 @@
 
   
   
-<h3 align="left" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-center: 10px;">Connect with me on 🤝: </h3>
+<h2 align="left" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-center: 10px;">Connect with me on 🤝: </h2>
 
 <div id="badges" align="left">
   <a href="https://github.com/Salmanhy074/Salmanhy074">
@@ -37,11 +37,13 @@
 
 
 
-### 🛠️ Languages and Tools:
+<h2>🛠️ Languages and Tools:</h2>
+
 [![My Skills](https://skillicons.dev/icons?i=java,kotlin,firebase,github,androidstudio,idea,stackoverflow,vscode)](https://skillicons.dev)
 
 
-### 📈 GitHub Stats:
+<h2>📈 GitHub Stats:</h2>
+
 <div align="left">
   <a href="https://github.com/Salmanhy074">
     <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Salmanhy074&theme=2077" height="180em" />
@@ -60,8 +62,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Salmanhy074" alt="Salmanhy074" /></a> </p>
 
 
-<h2>🧑🏻‍💻 Skills</h2>
-### 🧑🏻‍💻 Skills:
+<h2>🧑🏻‍💻 Skills:</h2>
 
 | # | # |
 | :------------ | :--------------- |
