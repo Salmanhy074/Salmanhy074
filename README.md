@@ -44,13 +44,13 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Salmanhy074&theme=dark)
 
 
-
 <h2>⚡ Skills</h2>
 
 | # | # | # | # |
 | :------------ | :--------------- | :----- | :----- |
-| <img src="https://img.shields.io/badge/-Java-0D1117?style=flat-square&logo=java&logoColor=F0DB4F"> | <img src="https://img.shields.io/badge/-Kotlin-0D1117?style=flat-square&logo=kotlin&logoColor=F0DB4F"> | <img src="https://img.shields.io/badge/-XML-0D1117?style=flat-square&logo=html5&logoColor=F0DB4F"> | <img src="https://img.shields.io/badge/-Firebase-0D1117?style=flat-square&logo=firebase&logoColor=F0DB4F"> |
+| <img src="https://img.shields.io/badge/-Java-0D1117?style=flat-square&logo=oracle&logoColor=F0DB4F"> | <img src="https://img.shields.io/badge/-Kotlin-0D1117?style=flat-square&logo=kotlin&logoColor=F0DB4F"> | <img src="https://img.shields.io/badge/-XML-0D1117?style=flat-square&logo=html5&logoColor=F0DB4F"> | <img src="https://img.shields.io/badge/-Firebase-0D1117?style=flat-square&logo=firebase&logoColor=F0DB4F"> |
 | <img src="https://img.shields.io/badge/-API-0D1117?style=flat-square&logo=fastapi&logoColor=F0DB4F"> | <img src="https://img.shields.io/badge/-Material%20Design-0D1117?style=flat-square&logo=material-design&logoColor=F0DB4F"> |
+
 
 
 
