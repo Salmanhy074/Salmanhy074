@@ -17,6 +17,15 @@
    <a href="https://www.linkedin.com/in/muhammad-salman074">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </a>
+ <a href="mailto:salmanhy123456@gmail.com">
+    <img src="https://img.shields.io/badge/Email-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
+</a>
+<a href="https://wa.me/+923082456659">
+    <img src="https://img.shields.io/badge/WhatsApp-green?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Badge"/>
+</a>
+<a href="tel:+923082456659">
+    <img src="https://img.shields.io/badge/Call-blue?style=for-the-badge&logo=phone&logoColor=white" alt="Call Badge"/>
+</a>
 </div>
 
 ### Languages and Tools:
