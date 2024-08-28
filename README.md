@@ -1,10 +1,12 @@
  <h1 align="center">Hi 👋, I'm MUHAMMAD SALMAN</h1>
 
 - 🔭 I’m currently working on Java and Kotlin
-- 🌱 I’m currently learning Backend
-- 💬 Ask me anything about Java 
-- 📫 How to reach me: salmanhy123456@gmail.com
+- 🌱 Learning new technologies
 - ⚡ Firebase
+- 💬 Ask me anything about Java
+- 📫 How to reach me: salmanhy123456@gmail.com
+
+  
   
 ### Connect with me:
 <div id="badges">
@@ -26,7 +28,7 @@
 </div>
 
 ### Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=java,kotlin,firebase,github,androidstudio,idea,StackOverflow,vscode=5)]
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin,firebase,github,androidstudio,idea,StackOverflow,vscode=5)](https://skillicons.dev)
 
 ![MUHAMMAD SALMAN's GitHub stats](https://github-readme-stats.vercel.app/api?username=Salmanhy074&show_icons=true&theme=dark)
 
