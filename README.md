@@ -23,13 +23,10 @@
 <a href="https://wa.me/+923082456659">
     <img src="https://img.shields.io/badge/WhatsApp-green?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Badge"/>
 </a>
-<a href="tel:+923082456659">
-    <img src="https://img.shields.io/badge/Call-blue?style=for-the-badge&logo=phone&logoColor=white" alt="Call Badge"/>
-</a>
 </div>
 
 ### Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=java,kotlin,firebase,github,git,xd&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin,firebase,github=5)](https://skillicons.dev)
 
 ![MUHAMMAD SALMAN's GitHub stats](https://github-readme-stats.vercel.app/api?username=Salmanhy074&show_icons=true&theme=dark)
 
