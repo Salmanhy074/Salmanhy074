@@ -34,7 +34,15 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Salmanhy074&theme=dark)
 
-[Github Profile Views Counter](https://github.com/Salmanhy074/github-profile-views-counter)
+
+<h2>:label: Github Stats</h2>
+
+<a href="https://gitroll.io/profile/uLfTHQ426idPKEBt4rSpjXMrcrSF3" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uLfTHQ426idPKEBt4rSpjXMrcrSF3" alt="GitRoll Profile Badge"/></a>
+
+
+<h2>
+
+
 
 Don't forget to hit the :star: if you like this repo.
 
