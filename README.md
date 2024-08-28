@@ -36,13 +36,7 @@
 
 [Github Profile Views Counter](https://github.com/Salmanhy074/github-profile-views-counter)
 
-<br/>
-<br/>
-<img src="https://img.shields.io/static/v1?label=Profile+views&message=1234567890&color=007ec6&style=for-the-badge" alt="Profile views badge" style="max-width: 100%;"> &nbsp; 
-<img src="https://img.shields.io/static/v1?label=Profile+views&message=1234567890&color=007ec6&style=plastic" alt="Profile views badge" style="max-width: 100%;">
-<br/>
-<br/>
-
+Don't forget to hit the :star: if you like this repo.
 
 <br>
 ⭐️ From [Salmanhy074](https://github.com/Salmanhy074)
