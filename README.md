@@ -10,7 +10,7 @@
 
 - 🔭 I’m Currently Working on Java and Kotlin
 - 👨‍💻 I'm an Android Developer from Pakistan
-- 🌱 I’m Currently Learning Advanced Programming Stuff
+- 🌱 Learning Advanced Programming Stuff
 - 🔥 Firebase
 - 💬 Ask me anything about Java
 - 📫 How to reach me: salmanhy123456@gmail.com
