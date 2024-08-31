@@ -57,7 +57,19 @@
     <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Salmanhy074&theme=2077" height="180em" />
     <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Salmanhy074&theme=2077" height="180em" />
   </a>
+  <br/>
+  ![Profile views](https://komarev.com/ghpvc/?username=Salmanhy074&color=blue)
+  <p>Number of Repositories: <span id="repo-count"></span></p>
 </div>
+
+<script>
+  fetch('https://api.github.com/users/Salmanhy074')
+    .then(response => response.json())
+    .then(data => {
+      document.getElementById('repo-count').textContent = data.public_repos;
+    });
+</script>
+
 
 <p style="text-align: center;">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Salmanhy074&" alt="Salmanhy074" />
