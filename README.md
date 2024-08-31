@@ -59,25 +59,8 @@
   </a>
   <br/>
   ![Profile views](https://komarev.com/ghpvc/?username=Salmanhy074&color=blue)
-  <p>Number of Repositories: <span id="repo-count"></span></p>
+  <p>Number of Repositories: 10 <!-- Manually update this count --></p>
 </div>
-
-<script>
-  fetch('https://api.github.com/users/Salmanhy074')
-    .then(response => response.json())
-    .then(data => {
-      document.getElementById('repo-count').textContent = data.public_repos;
-    });
-</script>
-
-
-<p style="text-align: center;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Salmanhy074&" alt="Salmanhy074" />
-</p>
-
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Salmanhy074" alt="Salmanhy074" /></a> </p>
-
 
 <h2>🧑🏻‍💻 Skills:</h2>
 
