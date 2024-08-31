@@ -1,4 +1,4 @@
- <h1 align="center">Hi 👋, I'm MUHAMMAD SALMAN</h1>
+<h1 align="center">Hi 👋, I'm MUHAMMAD SALMAN</h1>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
@@ -42,7 +42,7 @@
 
 
 
-<h2>🛠️ Languages and Tools:</h2>
+<h2>🛠 Languages and Tools:</h2>
 
 [![My Skills](https://skillicons.dev/icons?i=java,kotlin,firebase,github,androidstudio,idea,stackoverflow,vscode)](https://skillicons.dev)
 
@@ -58,6 +58,14 @@
     <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Salmanhy074&theme=2077" height="180em" />
   </a>
 </div>
+
+<p style="text-align: center;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Salmanhy074&" alt="Salmanhy074" />
+</p>
+
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Salmanhy074" alt="Salmanhy074" /></a> </p>
+
 
 <h2>🧑🏻‍💻 Skills:</h2>
 
@@ -77,4 +85,4 @@
 Don't forget to hit the :star: if you like this repo.
 
 <br>
-⭐️ Regards [MUHAMMAD SALMAN](https://github.com/Salmanhy074)
+⭐ Regards [MUHAMMAD SALMAN](https://github.com/Salmanhy074)
