@@ -57,9 +57,6 @@
     <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Salmanhy074&theme=2077" height="180em" />
     <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Salmanhy074&theme=2077" height="180em" />
   </a>
-  <br/>
-  ![Profile views](https://komarev.com/ghpvc/?username=Salmanhy074&color=blue)
-  <p>Number of Repositories: 10 <!-- Manually update this count --></p>
 </div>
 
 <h2>🧑🏻‍💻 Skills:</h2>
