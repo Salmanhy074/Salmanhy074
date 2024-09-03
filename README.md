@@ -44,7 +44,7 @@
 
 <h2>🛠 Languages and Tools:</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=java,kotlin,firebase,github,androidstudio,idea,stackoverflow,vscode,sqlite)](https://skillicons.dev)
+<img src="https://skillicons.dev/icons?i=java,kotlin,firebase,github,androidstudio,idea,stackoverflow,vscode,sqlite" alt="My Skills">
 
 
 <h2>📈 GitHub Stats:</h2>
